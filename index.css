@@ -1,0 +1,23 @@
+.grid {
+    width: 400px;
+    height: 600px;
+    position: relative;
+    font-size: 80px;
+    text-align: center;
+    background-color: black;
+    color: white;
+  }
+  
+  .doodler {
+    width: 7vw;
+    height: 7vh;
+    position: absolute;
+    background-image: url('aliens.png');
+  }
+  
+  .platform {
+    width: 85px;
+    height: 15px;
+    position: absolute;
+    background-color: grey;
+  }
